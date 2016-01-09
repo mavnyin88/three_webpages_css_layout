@@ -1,0 +1,49 @@
+
+.centerbody{
+	width: 600px;
+	margin: 0 auto;
+}
+
+.leftCol{
+	width: 300px;
+	float: left;
+}
+
+.rightCol{
+	width: 300px;
+	float: left;
+}
+
+.h1{
+	text-align: center;
+	font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+	font-size: 40px;
+}
+
+.socialMedia{
+	width: 200px;
+	height: 200px;
+}
+
+.mediaBarLeft{
+	width: 250px;
+	margin-left: 0 auto;
+}
+
+.mediaBarRight{
+	width: 850px;
+	margin-right: 0 auto;
+}
+
+.fbPosition{
+
+	position: fixed;
+	margin-left: 40px;
+}
+
+.twitter{
+
+	/*margin-left: 40px;*/
+	position: fixed; 
+	margin-right: px;
+}
