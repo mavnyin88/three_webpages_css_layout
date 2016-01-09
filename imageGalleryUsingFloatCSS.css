@@ -1,7 +1,7 @@
 
 .centerInCenter{
-	width:930px;
-	height:1550px;
+	width:936px;
+	height:1560px;
 	border: 3px #000 solid;
 	margin: 0 auto;
 	background-color: darkgrey;
@@ -10,6 +10,7 @@
 .picSize{
 	width:300px;
 	height:300px;
+	border: 1px #000 solid;
 	margin-right:5px; 
 	margin-left:5px;
 	margin-top:5px;
@@ -19,9 +20,14 @@
 	float: left;
 }
 
+body{
+	background-color: lightgreen;
+}
+
 h1{
+	background-color: darkgrey;
+	border: 3px #000 solid;
 	font-size: 60px;
-	font-style: Arial;
-	letter-spacing: 5px; 
+	letter-spacing: 10px; 
 	text-align: center;
 }
