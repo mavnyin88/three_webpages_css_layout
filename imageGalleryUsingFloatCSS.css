@@ -1,0 +1,27 @@
+
+.centerInCenter{
+	width:930px;
+	height:1550px;
+	border: 3px #000 solid;
+	margin: 0 auto;
+	background-color: darkgrey;
+}
+
+.picSize{
+	width:300px;
+	height:300px;
+	margin-right:5px; 
+	margin-left:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.position{
+	float: left;
+}
+
+h1{
+	font-size: 60px;
+	font-style: Arial;
+	letter-spacing: 5px; 
+	text-align: center;
+}
