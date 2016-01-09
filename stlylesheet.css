@@ -1,0 +1,14 @@
+
+.center{
+	width: 600px;
+	margin: 0 auto;
+}
+
+img{
+	width:250px;
+	height:250px;
+}
+
+td{
+	border: 1px #000 solid;
+}
