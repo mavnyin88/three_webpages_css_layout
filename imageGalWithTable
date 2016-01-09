@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<link type="text/css" rel="stylesheet" href="imageGalWithTableCSS.css" />
 		<title>My Photo Page</title>
 	</head>
 	<body>
-
-        
     	    <table align="center">
     	        <thead>
     	            <th colspan="3", style="font-size:80px;font-family:Verdana;">My Picture Gallery</th>
