@@ -29,6 +29,18 @@
 
 }
 
+.socialMediaBar{
+	width:154px;
+	height:454px;
+	margin: 0 auto;
+}
+
+.size{
+	float: left;
+	width: 150px;
+	height: 150px;
+}
+
 .imagePos{
 	float:left;
 	margin-left:5px;
