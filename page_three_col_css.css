@@ -7,7 +7,7 @@
 	float:left;
 	width:240px;
 	height: 600px;
-	border: 1px #000 solid;
+	border: 2px #000 solid;
 	background-color: lightgrey;
 }
 
@@ -15,7 +15,7 @@
 	float:left;
 	width:480px;
 	height: 600px;
-	border: 1px #000 solid;
+	border: 2px #000 solid;
 	background-color: darkgrey;
 
 }
@@ -24,7 +24,7 @@
 	float:left;
 	width:240px;
 	height: 600px;
-	border: 1px #000 solid;
+	border: 2px #000 solid;
 	background-color: lightgrey;
 
 }
@@ -42,6 +42,11 @@ p{
 	margin-left: 5px;
 	margin-right: 5px;
 }
+ul{	
+	list-style-type: none;
+	text-align: center;
+	padding-left: 0;
+}
 
 h1{
 	text-align: center;
@@ -51,4 +56,14 @@ h1{
 h3{
 	text-align: center;
 	letter-spacing: 5px;
+}
+
+.menuBarBorder{
+	border: 1px #000 solid;
+	background-color: lightgreen;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-spacing: 10px;
 }
